@@ -43,5 +43,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 fun GreetingPreview() {
     A4TestTheme {
         Greeting("Android")
+        Greeting("Android")
+        Greeting("Android")
     }
 }
